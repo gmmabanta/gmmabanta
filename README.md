@@ -67,13 +67,3 @@
 ### Hardware:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
--------------------
-## 📊 GitHub Stats
-<p align="left">
-    <a href="https://github.com/gmmabanta">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmmabanta&theme=algolia"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gmmabanta&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-</p>
-
--------------------
